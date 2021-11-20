@@ -22,7 +22,8 @@ const { MessageEmbed } = require("discord.js");
 
 const embed1 = new MessageEmbed();
 .setTitle("Page 1")
-const embed2 = new MessageEmbed();                                  .setTitle("Page 2")
+const embed2 = new MessageEmbed();
+.setTitle("Page 2")
 
 // Make An Array For Embeds
 let pages = [
