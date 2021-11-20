@@ -14,6 +14,27 @@
 npm i discord-js-paginator
 ```
 
+## Useage
+```js
+const paginator = require("discord-js-paginator");
+
+const { MessageEmbed } = require("discord.js");
+
+const embed1 = new MessageEmbed();
+.setTitle("Page 1")
+const embed2 = new MessageEmbed();                                  .setTitle("Page 2")
+
+// Make An Array For Embeds
+let pages = [
+    embed1,
+    embed2,
+    // More Embeds Here
+]
+
+paginator(msg, pages, emojiList, timeout)
+// EmojiList Default Value: ⏪ ⏩
+```
+
 ## Author
 
 👤 **ItzNesbro**
@@ -30,5 +51,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
