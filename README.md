@@ -4,7 +4,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/ItzMesbro" target="_blank">
-    <img alt="Twitter: ItzMesbro" src="https://img.shields.io/twitter/follow/ItzMesbro.svg?style=social" />
+    <img alt="Twitter: ItzNesbro" src="https://img.shields.io/twitter/follow/ItzNesbro.svg?style=social" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ paginator(msg, pages, emojiList, timeout)
 👤 **ItzNesbro**
 
 * Website: itznesbro.netlify.app
-* Twitter: [@ItzMesbro](https://twitter.com/ItzMesbro)
+* Twitter: [@ItzNesbro](https://twitter.com/ItzNesbro)
 * Github: [@ItzNesbroDev](https://github.com/ItzNesbroDev)
 
 ## 🤝 Contributing
