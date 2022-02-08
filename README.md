@@ -3,7 +3,7 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/ItzMesbro" target="_blank">
+  <a href="https://twitter.com/ItzNesbro" target="_blank">
     <img alt="Twitter: ItzNesbro" src="https://img.shields.io/twitter/follow/ItzNesbro.svg?style=social" />
   </a>
 </p>
@@ -11,12 +11,14 @@
 ## Install
 
 ```sh
-npm i discord-js-paginator
+npm i @itznesbrodeveloper/discord-js-paginator
+# or
+yarn add @itznesbrodeveloper/discord-js-paginator
 ```
 
 ## Useage
 ```js
-const paginator = require("discord-js-paginator");
+const paginator = require("@itznesbrodeveloper/discord-js-paginator");
 
 const { MessageEmbed } = require("discord.js");
 
