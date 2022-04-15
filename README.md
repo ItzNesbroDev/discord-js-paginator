@@ -42,7 +42,7 @@ paginator(msg, pages, emojiList, timeout)
 
 👤 **ItzNesbro**
 
-* Website: itznesbro.netlify.app
+* Website: [itznesbro.vercel.app](https://itznesbro.vercel.app/)
 * Twitter: [@ItzNesbro](https://twitter.com/ItzNesbro)
 * Github: [@ItzNesbroDev](https://github.com/ItzNesbroDev)
 
