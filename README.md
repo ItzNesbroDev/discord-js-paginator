@@ -8,6 +8,8 @@
   </a>
 </p>
 
+## NOTE: This Package Only Works On Discord.js V12
+
 ## Install
 
 ```sh
@@ -53,4 +55,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
