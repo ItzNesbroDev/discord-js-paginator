@@ -1,6 +1,6 @@
 {
   "name": "@itznesbrodeveloper/discord-js-paginator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "<h1 align=\"center\">Welcome to discord-js-paginator 👋</h1> <p>   <a href=\"#\" target=\"_blank\">     <img alt=\"License: MIT\" src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" />   </a>   <a href=\"https://twitter.com/ItzNesbro\" target=\"_blank\">     <img alt=\"Twitter: ItzNesbro\" src=\"https://img.shields.io/twitter/follow/ItzNesbro.svg?style=social\" />   </a> </p>",
   "main": "index.js",
   "scripts": {
